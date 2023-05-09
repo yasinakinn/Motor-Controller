@@ -1570,7 +1570,7 @@
       (reference "A3") (unit 1) (value "Driver") (footprint "Module:Pololu_Breakout-16_15.2x20.3mm")
     )
     (path "/43252ef8-6fca-4ec1-b8f6-8bf3d6fbc24b/07dba89a-5489-432c-bb4d-b817156c3682"
-      (reference "C1") (unit 1) (value "C_Polarized") (footprint "Capacitor_SMD:CP_Elec_8x6.7")
+      (reference "C1") (unit 1) (value "470uF") (footprint "Capacitor_SMD:CP_Elec_8x6.7")
     )
     (path "/43252ef8-6fca-4ec1-b8f6-8bf3d6fbc24b/5b8fa1fe-e6f2-4062-907e-57c9675a36f1"
       (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -1579,13 +1579,13 @@
       (reference "C3") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/43252ef8-6fca-4ec1-b8f6-8bf3d6fbc24b/176f8434-5fe8-4f47-b03e-2ab211c67b0a"
-      (reference "C4") (unit 1) (value "C_Polarized") (footprint "Capacitor_SMD:CP_Elec_8x6.7")
+      (reference "C4") (unit 1) (value "220uF") (footprint "Capacitor_SMD:CP_Elec_8x6.7")
     )
     (path "/69189110-3e93-45c2-8636-d243b957dd3a/0c2c7c99-0719-4385-b957-ac1637d24716"
       (reference "C5") (unit 1) (value "220uF/63V") (footprint "Capacitor_SMD:CP_Elec_8x6.7")
     )
     (path "/69189110-3e93-45c2-8636-d243b957dd3a/cae66ce2-37a5-479f-833c-6bb797cc7934"
-      (reference "C6") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C6") (unit 1) (value "100NF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/657542ec-f440-4fe8-92d5-39c89e8c5b0a/c000b728-796e-4616-90da-dcfab851c797"
       (reference "C7") (unit 1) (value "100uF 35V") (footprint "Capacitor_SMD:CP_Elec_6.3x7.7")
@@ -1648,10 +1648,10 @@
       (reference "R2") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/43252ef8-6fca-4ec1-b8f6-8bf3d6fbc24b/f70dd969-25cb-4eea-81c1-a5abf8d560c5"
-      (reference "R3") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R3") (unit 1) (value "3K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/43252ef8-6fca-4ec1-b8f6-8bf3d6fbc24b/d3d0a9b8-c8bb-4613-9bee-b6a7ac7862e7"
-      (reference "R4") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R4") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/657542ec-f440-4fe8-92d5-39c89e8c5b0a/374d01ae-3eef-4e0d-a178-8dd1c7233161"
       (reference "R5") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -1672,10 +1672,10 @@
       (reference "R10") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/69189110-3e93-45c2-8636-d243b957dd3a/766dd137-e593-4b42-a3e1-9ffc66f7a982"
-      (reference "R11") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R11") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/69189110-3e93-45c2-8636-d243b957dd3a/3ff7015b-e7c8-4af2-bfce-a0fbe5fda945"
-      (reference "R12") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R12") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/5bc40f66-2117-40d8-810f-7b7518a4db47"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
